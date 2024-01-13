@@ -1,4 +1,4 @@
-visit the website: https://mahn-bonnie.github.io/halloween.github.io/
+visit the website: https://mahn-bonnie.github.io/Halloween.github.io/
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
