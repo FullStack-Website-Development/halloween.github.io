@@ -1,3 +1,5 @@
+visit the website: https://mahn-bonnie.github.io/halloween.github.io/
+
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
 - It has three color designs (green, red and black)
