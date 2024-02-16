@@ -1,6 +1,6 @@
-HALLOWEEN WEBSITE 
+# HALLOWEEN WEBSITE 
 
-Live demo: https://mahn-bonnie.github.io/halloween.github.io/
+# Live demo: [here](https://mahn-bonnie.github.io/halloween.github.io/)
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
